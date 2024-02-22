@@ -1,0 +1,31 @@
+*{
+    margin:20px;
+}
+body{
+    margin: 0px;
+    font-family: italic;
+    background-color:#FAFAD2;
+}
+h1{
+    color: Teal;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: Comic Sans ;
+    font-family: "Kanit", sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+    border-style:ridge;
+}
+p{
+    color:#FF8C00;
+    text-align: justify;
+    border-radius: 20px;
+    border-style:solid;
+    background-color:#FFFF;
+    font-family: "Quicksand", sans-serif;
+}
+img{
+    width: 20%;
+
+}
